@@ -8,3 +8,8 @@
 
 body {
 }
+
+.social-media a:link, .social-media a:visited, .social-media a:hover, .social-media a:active {
+	color: black;
+	font-size: 200%;
+}
