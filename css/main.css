@@ -1,12 +1,23 @@
-.top-bar ul li a {
+.top-bar {
+	background: none;
+}
+
+.top-bar-section ul {
+	background: none;
+}
+
+.top-bar-section li a:not(.button),
+.top-bar li.name a {
 	font-family: 'Rock Salt', cursive;
+	color: #aaa;
+	background: none;
 }
 
-.top-bar .name a {
-	font-size: 150%;
+.top-bar li.name a {
+	font-size: 120%;
 }
 
-body  {
+body {
 	background-color: #333;
 }
 
