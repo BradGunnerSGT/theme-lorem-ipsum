@@ -1,39 +1,28 @@
-.top-bar {
-	background: none;
-}
-
-.top-bar-section ul {
-	background: none;
-}
-
 .top-bar-section li a:not(.button),
-.top-bar li.name a {
-	font-family: 'Rock Salt', cursive;
+.top-bar li.name a
+{
 	color: #aaa;
-	background: none;
+	font-family: 'Rock Salt', cursive;
 }
 
 .top-bar li.name a {
+	color: #aaa;
 	font-size: 120%;
 }
 
 body {
-	background-color: #333;
+	/* background-color: #666; */
 }
 
-.panel {
-	background-color: #eee;
-}
 
-.social-media a:link, .social-media a:visited, .social-media a:hover, .social-media a:active {
-	color: #aaa;
+.footer-panel li a:not(.button) {
 	font-size: 200%;
 }
 
-.footer-panel {
-	color: #aaa;
+.footer-panel,
+.footer-panel li a:not(.button)
+{
+	color: #666;
 }
 
-.audio-panel {
-}
 
