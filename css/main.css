@@ -13,3 +13,11 @@ body {
 	color: black;
 	font-size: 200%;
 }
+
+.audio-panel {
+	height: 420px;
+}
+
+.events-panel {
+	height: 100%;
+}
