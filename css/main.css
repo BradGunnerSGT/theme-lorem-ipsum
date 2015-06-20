@@ -7,14 +7,22 @@
 }
 
 body {
+	background-color: #111;
+}
+
+.panel {
+	background-color: #eee;
 }
 
 .social-media a:link, .social-media a:visited, .social-media a:hover, .social-media a:active {
-	color: black;
+	color: #aaa;
 	font-size: 200%;
 }
 
+.footer-panel {
+	color: #aaa;
+}
+
 .audio-panel {
-	height: 420px;
 }
 
