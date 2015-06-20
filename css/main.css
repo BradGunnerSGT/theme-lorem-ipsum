@@ -3,11 +3,11 @@
 }
 
 .top-bar .name a {
-	font-size: 220%;
+	font-size: 150%;
 }
 
-body {
-	background-color: #111;
+body  {
+	background-color: #333;
 }
 
 .panel {
